@@ -2,6 +2,7 @@ var CACHE_NAME = 'first-app';
 var urlsToCache = [
   '/',
   '/index.html',
+  '/about.html',
   '/blog.html',
   '/contact.html',
   '/portfolio-example01.html',
