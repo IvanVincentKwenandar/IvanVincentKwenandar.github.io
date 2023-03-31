@@ -1,0 +1,1 @@
+navigator.serviceWorker.register('service-workers.js');
